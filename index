@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jillan G. Amacna | Professional Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="side-nav">
+        <div class="nav-logo">
+            <span class="status-dot"></span> JGA.SYS
+        </div>
+        <div class="nav-links">
+            <a href="#about">ABOUT ME</a>
+            <a href="#hobbies">HOBBIES</a>
+            <a href="#skills">MY SKILLS</a>
+            <a href="#contact">CONTACT</a>
+        </div>
+        <div class="nav-system-info">
+            <p>V.2026.01</p>
+        </div>
+    </nav>
+
+    <div class="main-container">
+        <header class="hero-header">
+            <div class="header-overlay">
+                <h1 class="glow-name">JILLAN AMACNA</h1>
+                <div class="accent-bar"></div>
+                <p class="hero-subtitle">IT STUDENT | ASPIRING DEVELOPER</p>
+            </div>
+        </header>
+
+        <main class="content-area">
+            
+            <section id="about" class="glass-section">
+                <div class="profile-center">
+                    <div class="tech-square-frame">
+                        <img src="images/jillan (2).jpg" alt="Jillan G. Amacna" class="id-photo">
+                    </div>
+                </div>
+                <h2>ABOUT ME</h2>
+                <div class="text-content">
+                    <p>Hello! I'm <strong>Jillan G. Amacna</strong>, an aspiring professional currently focused on technology and development. I specialize in systems management and have a strong foundation in networking and basic programming concepts.</p>
+                </div>
+            </section>
+
+          <section id="hobbies" class="glass-section solid-card">
+    <h2>HOBBIES & INTERESTS</h2>
+    <ul class="standard-list">
+        <li>Singing</li>
+        <li>Dancing</li>
+        <li>Exploring New Tech</li>
+    </ul>
+</section>
+
+<section id="skills" class="glass-section solid-card">
+    <h2>MY SKILLS</h2>
+    <ul class="skills-list">
+        <li>Front-end Development</li>
+        <li>HTML5 & CSS</li>
+        
+    </ul>
+</section>
+
+            <section id="contact" class="glass-section solid-card">
+                <h2>CONTACT</h2>
+                <div class="contact-grid">
+                    <div class="contact-node">
+                        <div class="node-icon">✉</div>
+                        <div class="node-info">
+                            <strong>EMAIL ADDRESS</strong>
+                            <p>amacnajillan11@gmail.com</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-node">
+                        <div class="node-icon">f</div>
+                        <div class="node-info">
+                            <strong>FACEBOOK</strong>
+                            <p><a href="https://www.facebook.com/dlenechaii.owh" target="_blank" class="fb-link">Visit Jillan Amacna</a></p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="footer">
+            <p>© 2026 JILLAN G. AMACNA | ALL RIGHTS RESERVED</p>
+        </footer>
+    </div>
+
+</body>
+</html>
